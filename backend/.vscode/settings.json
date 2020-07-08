@@ -1,0 +1,31 @@
+{
+    "cSpell.words": [
+        "camelcase",
+        "gobarber",
+        "gostack",
+        "middlewares",
+        "originalname",
+        "readonly",
+        "varchar"
+    ],
+    "git.ignoreLimitWarning": true,
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#e966bf",
+        "activityBar.activeBorder": "#b9e758",
+        "activityBar.background": "#e966bf",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#b9e758",
+        "activityBarBadge.foreground": "#15202b",
+        "statusBar.background": "#e23aac",
+        "statusBar.border": "#e23aac",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#e966bf",
+        "titleBar.activeBackground": "#e23aac",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.border": "#e23aac",
+        "titleBar.inactiveBackground": "#e23aac99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#e23aac"
+}
